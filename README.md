@@ -2,4 +2,4 @@
 # Gojo_Wallpaper
 For Gojo Satarou Fans
 It is fun based work.
-Example app is attacked above.
+Example app is attached above.
